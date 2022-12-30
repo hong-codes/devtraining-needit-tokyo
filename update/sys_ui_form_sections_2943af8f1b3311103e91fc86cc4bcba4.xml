@@ -14,34 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-12-21 02:04:26</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-21 02:04:26</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>3943ef8f1b3311103e91fc86cc4bcb17</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">2943af8f1b3311103e91fc86cc4bcba4</sys_ui_form>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">a143af8f1b3311103e91fc86cc4bcba3</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-21 02:04:26</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-21 02:04:26</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fd43ef8f1b3311103e91fc86cc4bcb1a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">2943af8f1b3311103e91fc86cc4bcba4</sys_ui_form>
-            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">e943af8f1b3311103e91fc86cc4bcba3</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-21 02:04:26</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
             <roles/>
